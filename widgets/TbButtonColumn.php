@@ -18,7 +18,7 @@ class TbButtonColumn extends CButtonColumn
     /**
      * @var string the view button icon (defaults to TbHtml::ICON_EYE_OPEN).
      */
-    public $viewButtonIcon = TbHtml::ICON_EYE_OPEN;
+    public $viewButtonIcon = TbHtml::ICON_INFO_SIGN;
     /**
      * @var string the update button icon (defaults to TbHtml::ICON_PENCIL).
      */
